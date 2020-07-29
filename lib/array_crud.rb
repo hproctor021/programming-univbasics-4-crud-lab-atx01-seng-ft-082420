@@ -1,4 +1,4 @@
-$carrots = ["orange", "yellow", "am", "purple", "rainbow"]
+$carrots = ["wow", "orange", "yellow", "am", "purple", "rainbow"]
 
 def create_an_empty_array
   []
